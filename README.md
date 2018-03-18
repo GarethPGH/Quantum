@@ -6,8 +6,8 @@ See the Microsoft Docs here: https://docs.microsoft.com/en-us/quantum/quantum-wr
 
 Contained is the talk that should have been, the PowerPoint presentation and a package of results from IBM *see below*. 
 Structure of the PDF: 
-    Short Intro to Quantum Mechanics
-    Short Intro to Quantum Computing and what a Quantum Computer is
+    Short Intro to Quantum Mechanics/
+    Short Intro to Quantum Computing and what a Quantum Computer is/
     Short Primer on the Q# Language 
     References
    
